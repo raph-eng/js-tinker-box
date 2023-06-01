@@ -19,6 +19,23 @@ p {
   text-align: center;
 }
 
+.button {
+  display: inline-block;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: #358637;
+}
+
 #keys {
   display: flex;
   justify-content: center;
