@@ -13,7 +13,7 @@ img {
 }
 
 .highlight {
-  
+  color: var(--base);
 }
 
 body {
